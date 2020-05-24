@@ -72,7 +72,7 @@ If you change only the "epoch", "batch-size" or "lr", feel free to use the pre-t
  
   The final RMSE of the test set is near 100, which seems to be a good result. 
 
-###  The output data is in "/output" folder.
+###  The output data is in "output/" folder.
 
    
  
