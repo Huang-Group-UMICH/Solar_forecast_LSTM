@@ -74,5 +74,7 @@ If you change only the "epoch", "batch-size" or "lr", feel free to use the pre-t
 
 ###  The output data is in "output/" folder.
 
-   
- 
+## III. Citation and contact
+If you use our source code, please kindly cite the following reference: Chen, X., X. Huang, Y. Cai, H. Shen, and J. Lu, 2020: Intra-day forecast of ground horizontal irradiance using long short-term memory network (LSTM). J. Meteor. Soc. Japan, 98, https://doi.org/10.2151/jmsj.2020-048.
+
+If you have any questions, suggestions, or bug reports, please email xiuchen@umich.edu.
