@@ -70,7 +70,7 @@ If you change only the "epoch", "batch-size" or "lr", feel free to use the pre-t
 6. Generate long-term predictions on the model using all feature:
   - > python main.py -a -p -g2
  
-  The final RMSE of the test set is near 100, which seems to be a good result. 
+  The final RMSE of the test set is near 100 Wm-2, which seems to be a good result. 
 
 ###  The output data is in "output/" folder.
 
